@@ -3,7 +3,7 @@
 ## Demo
 [Live Demo](https://github.com/isabelfuentes7/Employee-Management-System/blob/main/assets/MySQL-Employee-Tracker.gif)
 
-
+[![watch the video](https://github.com/isabelfuentes7/Employee-Management-System/blob/main/assets/MySQL-Employee-Tracker.gif)]
 
 
 ## User Story
